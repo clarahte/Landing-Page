@@ -1,0 +1,18 @@
+.banner {
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.0) 50%), url('https://th.bing.com/th/id/R.a7d7b7635af479db1a708766bd0baca0?rik=MyokMccVhMRmag&riu=http%3a%2f%2fwww.mec-info.com%2fwp-content%2fuploads%2fnouveau-campus-de-KEDGE-Business-School-Bordeaux.jpg&ehk=g8rJA0TB9KI0c8fbOBAHoUjDmjHyJ4SSLkXuCge5k%2fk%3d&risl=&pid=ImgRaw&r=0');
+  color: black;
+  padding: 200px 0;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: black;
+  opacity: 30;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
